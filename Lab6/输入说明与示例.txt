@@ -1,0 +1,39 @@
+以下是第一题的输入数据：
+（可以直接将全部内容复制黏贴到程序内，也可以按照交互指引分部输入，亦可以按照需要输入自己的数据）
+
+中山大学
+广州校区南校园,广州校区北校园,广州校区东校园,珠海校区,深圳校区,###,
+中国语言文学系,历史学系,哲学系,社会学与人类学学院,博雅学院,岭南学院,外国语学院,马克思主义学院,数学学院,物理学院,地理科学与规划学院,生命科学学院,逸仙学院,体育部,艺术学院,###,
+中山医学院,光华口腔医学院,公共卫生学院,护理学院,###,
+法学院,政治与公共事务管理学院,管理学院,心理学系,传播与设计学院,资讯管理学院,工学院,化学学院,材料科学与工程学院,电子与信息工程学院,数据科学与计算机学院（软件学院）,国家保密学院,网络安全学院,环境科学与工程学院,系统科学与工程学院,药学院,###,
+中国语言文学系（珠海）,历史学系（珠海）,哲学系（珠海）,国际金融学院,国际翻译学院,国际关系学院,旅游学院,数学学院（珠海）,物理与天文学院,大气科学学院,海洋科学学院,地球科学与工程学院,化学工程与技术学院,海洋工程与技术学院,中法核工程与技术学院,土木工程学院,微电子科学与技术学院,测绘科学与技术学院,###,
+医学院,公共卫生学院（深圳）,药学院（深圳）,材料学院,生物医学工程学院,电子与通信工程学院,智能工程学院,航空航天学院,农学院,生态学院,####,
+
+
+以下是第二题的输入数据：
+注1：每次解码均需要生成哈夫曼树的编码，测试解码功能的数据文件以及本程序输出的文件均会带上这一部分，若在控制台输出也会显示对应的huffman-ID
+注2：因为中大英文介绍的哈夫曼编码较长，超过了控制台输入的最大长度，所以只能通过文件方式进行读取。
+
+数据1：（较短的文字）
+Hello world!#
+
+
+数据2：
+按文件输入并编码：
+文件：encode_test.txt
+
+
+数据3：
+按文件输入并解码：
+文件1（短）：decode_test.txt
+文件2（长）：sysu.txt
+
+
+数据4 较长的文字：
+About Sun Yat-sen University
+
+Sun Yat-sen University, founded by Dr. Sun Yat-sen and with an educational tradition spanning over 100 years, is a preeminent research, academic and cultural center and the premier location for talent development in South China. Under the direct supervision of the Ministry of Education of the People’s Republic of China, and strongly supported by both the Ministry and Guangdong Province, Sun Yat-sen University has developed into a modern comprehensive university that enjoys a reputation as a top-tier university nationally and a renowned university internationally. With five campuses in the three cities of Guangzhou, Zhuhai and Shenzhen, and ten affiliated hospitals, the University is striving to become a world-class university and global center of learning. 
+
+Built on a solid multidisciplinary foundation of humanities, social sciences, natural sciences, medical sciences, and engineering, Sun Yat-sen University is propelled forward by the continuous pursuit of academic innovation. The University is equipped with a globally aware outlook, and has dedicated itself to being an institution that is “comprehensive, innovative, and open”. The University adheres to the socialist orientation of higher education, focusing on the fundamental task of nurturing virtue and talents. The goal of talent cultivation is to nurture students who have both ability and moral integrity, able to cultivate charisma and eager to serve their country. The basic guiding philosophy is to be oriented toward academic frontiers, oriented toward national major strategic needs, and oriented toward national and regional economic and social development. The coordinated development of five campuses in the three cities of Guangzhou, Zhuhai and Shenzhen will jointly support the development of the entire University. The University is pushing forward the transformation from external development to internal development, the transformation from routine development to active development, and the transformation from a university with discrete advantages in humanities, social sciences, natural sciences and medical sciences to a university where humanities, social sciences, natural sciences, medical sciences and engineering can integrate and develop while retaining their distinctive characteristics. Now, standing at a new starting point, Sun Yat-sen University strives to enter both the national first-tier of universities and the ranks of world-class elite universities, building a first-class socialist university with Chinese characteristics.#
+
+
