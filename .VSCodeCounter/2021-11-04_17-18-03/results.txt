@@ -1,0 +1,70 @@
+Date : 2021-11-04 17:18:03
+Directory : c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework
+Total : 34 files,  5721 codes, 2 comments, 499 blanks, all 6222 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         33 |      5,716 |          2 |        495 |      6,213 |
+| Markdown |          1 |          5 |          0 |          4 |          9 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         34 |      5,721 |          2 |        499 |      6,222 |
+| Lab1                                                                      |          3 |        172 |          0 |         26 |        198 |
+| Lab10                                                                     |          2 |        445 |          0 |         32 |        477 |
+| Lab11                                                                     |          1 |        357 |          0 |         25 |        382 |
+| Lab2                                                                      |          5 |      1,198 |          1 |        106 |      1,305 |
+| Lab3                                                                      |          4 |        573 |          1 |         63 |        637 |
+| Lab4                                                                      |          5 |        525 |          0 |         44 |        569 |
+| Lab5                                                                      |          3 |        803 |          0 |         70 |        873 |
+| Lab6                                                                      |          2 |        389 |          0 |         27 |        416 |
+| Lab7                                                                      |          2 |        335 |          0 |         22 |        357 |
+| Lab8                                                                      |          3 |        483 |          0 |         36 |        519 |
+| Lab9                                                                      |          3 |        436 |          0 |         44 |        480 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                  | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab10\T1.cpp        | C++      |        211 |          0 |         19 |        230 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab10\T2.cpp        | C++      |        234 |          0 |         13 |        247 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab11\SYSU_Info.cpp | C++      |        357 |          0 |         25 |        382 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab1\T1.cpp         | C++      |         31 |          0 |          2 |         33 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab1\T2 .cpp        | C++      |        118 |          0 |         21 |        139 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab1\T3.cpp         | C++      |         23 |          0 |          3 |         26 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab2\t1.cpp         | C++      |        173 |          1 |         18 |        192 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab2\t2.cpp         | C++      |        270 |          0 |         22 |        292 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab2\t3.cpp         | C++      |        347 |          0 |         28 |        375 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab2\t4.cpp         | C++      |        139 |          0 |         16 |        155 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab2\t5.cpp         | C++      |        269 |          0 |         22 |        291 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab3\t1.cpp         | C++      |        132 |          0 |         19 |        151 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab3\t2.cpp         | C++      |        146 |          0 |         19 |        165 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab3\t3.cpp         | C++      |        118 |          0 |         12 |        130 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab3\t4.cpp         | C++      |        177 |          1 |         13 |        191 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab4\t1.cpp         | C++      |         66 |          0 |          6 |         72 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab4\t2.cpp         | C++      |        108 |          0 |          8 |        116 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab4\t3.cpp         | C++      |         76 |          0 |          5 |         81 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab4\t4.cpp         | C++      |        182 |          0 |         20 |        202 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab4\t5.cpp         | C++      |         93 |          0 |          5 |         98 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab5\T1&T2.cpp      | C++      |        327 |          0 |         37 |        364 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab5\t3.cpp         | C++      |        365 |          0 |         22 |        387 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab5\t4.cpp         | C++      |        111 |          0 |         11 |        122 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab6\T1.cpp         | C++      |        130 |          0 |         11 |        141 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab6\T2.cpp         | C++      |        259 |          0 |         16 |        275 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab7\T1.cpp         | C++      |        149 |          0 |          7 |        156 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab7\T2.cpp         | C++      |        186 |          0 |         15 |        201 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab8\T1.cpp         | C++      |        207 |          0 |         11 |        218 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab8\T2.cpp         | C++      |        115 |          0 |         13 |        128 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab8\T3.cpp         | C++      |        161 |          0 |         12 |        173 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab9\T1.cpp         | C++      |        142 |          0 |         15 |        157 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab9\T2.cpp         | C++      |        106 |          0 |         12 |        118 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\Lab9\T3.cpp         | C++      |        188 |          0 |         17 |        205 |
+| c:\Users\zhwf\Documents\GitHub\DataSturcture-Homework\README.md           | Markdown |          5 |          0 |          4 |          9 |
+| Total                                                                     |          |      5,721 |          2 |        499 |      6,222 |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
