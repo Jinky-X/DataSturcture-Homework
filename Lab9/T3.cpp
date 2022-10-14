@@ -4,6 +4,7 @@
 #include <cmath>
 #include <ctime>
 #include <stdexcept>
+#include <random>
 #pragma GCC optimize(2)
 using namespace std;
 
@@ -143,6 +144,7 @@ class BSTree
                 }
             }
         }
+        return nullptr;
     }
 
     int get_depth(node *bt)
