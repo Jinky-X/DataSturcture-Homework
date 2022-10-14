@@ -105,19 +105,19 @@ class BSTree
                 bt->degree++;
                 if (bt->degree <= 1)
                 {
-                    bt->left = push(in, bt->left);
+                    push(in, bt->left);
                     return bt;
                 }
                 if (in <= bt->left->data)
                 {
                     temp = bt->left;
-                    temp->left = push(in, temp->left);
+                    push(in, temp->left);
                     change_LL(bt);
                     return temp;
                 }
                 if (in > bt->left->data)
                 {
-                    bt->left->right = push(in, bt->left->right);
+                    push(in, bt->left->right);
                     change_LR(bt);
                     return bt;
                 }
@@ -126,19 +126,19 @@ class BSTree
                 bt->degree--;
                 if (bt->degree >= -1)
                 {
-                    bt->right = push(in, bt->right);
+                    push(in, bt->right);
                     return bt;
                 }
                 if (in > bt->right->data)
                 {
                     temp = bt->right;
-                    bt->right->right = push(in, bt->right->right);
+                    push(in, bt->right->right);
                     change_RR(bt);
                     return temp;
                 }
                 if (in <= bt->right->data)
                 {
-                    bt->right->left = push(in, bt->right->left);
+                    push(in, bt->right->left);
                     change_RL(bt);
                     return bt;
                 }
